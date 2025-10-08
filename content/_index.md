@@ -41,8 +41,8 @@ I Danmark har der længe været et fællesskab omkring Django, både som individ
 
 **Et stort tillykke med fødselsdagen fra Django Danmark!**
 
-[1] https://en.wikipedia.org/wiki/Lindy_effect
-[2] https://github.com/django/deps/blob/main/accepted/0014-background-workers.rst
+[1] https://en.wikipedia.org/wiki/Lindy_effect<br>
+[2] https://github.com/django/deps/blob/main/accepted/0014-background-workers.rst<br>
 [3] https://mastodon.social/@farhanaliraza/115253915866389914
 
 # 20 years of Django!
@@ -78,8 +78,8 @@ In Denmark, there has long been a community around Django, both as individual sm
 
 **A big happy birthday from Django Denmark!**
 
-[1] https://en.wikipedia.org/wiki/Lindy_effect
-[2] https://github.com/django/deps/blob/main/accepted/0014-background-workers.rst
+[1] https://en.wikipedia.org/wiki/Lindy_effect<br>
+[2] https://github.com/django/deps/blob/main/accepted/0014-background-workers.rst<br>
 [3] https://mastodon.social/@farhanaliraza/115253915866389914
 
 
