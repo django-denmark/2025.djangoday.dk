@@ -12,7 +12,10 @@ draft: false
 
 Der findes mange forskellige måder at bygge apps og hjemmesider, og i hele 20 år har [Django](https://www.djangoproject.com/) været et framework, som har gjort det muligt for "the perfectionist with deadlines" at gøre lige netop dette.
 
-*Fakta-box: Django er et af de mest populære fullstack webframework til Python. Django kan bruges til alt fra API'er til frontend-tunge applikationer. Django er kendt for at have mange gennemtænkte redskaber til almindelig webudvikling. Indbygget sikkerhed og robusthed er høj prioritet. Derudover findes der et utal af tredjeparts moduler som udvider mulighederne. Mange kendte kommercielle projekter kører Django eller brugte det i deres indledende år, såsom Instagram, Pinterest, Dropbox, Spotify, Bitbucket, Read the Docs, Disqus mm.*
+<div class="factbox">
+<b>Hvad er Django?</b>
+Django er et af de mest populære fullstack webframework til Python. Django kan bruges til alt fra API'er til frontend-tunge applikationer. Django er kendt for at have mange gennemtænkte redskaber til almindelig webudvikling. Indbygget sikkerhed og robusthed er høj prioritet. Derudover findes der et utal af tredjeparts moduler som udvider mulighederne. Mange kendte kommercielle projekter kører Django eller brugte det i deres indledende år, såsom Instagram, Pinterest, Dropbox, Spotify, Bitbucket, Read the Docs, Disqus mm.
+</div>
 
 Når vi på fredag d. 10. oktober fejrer det med kage og sjov på Nørrebro ([kom med!](https://birthday20.djangoproject.com/events/copenhagen/)), så er det i samme ånd, som vi altid har været involverede i Django: Det er sjovt, det er socialt, og vi lærer af hinanden.
 
@@ -46,7 +49,10 @@ I Danmark har der længe været et fællesskab omkring Django, både som individ
 
 There are many different ways to build apps and websites, and for 20 years, [Django](https://www.djangoproject.com/) has been a framework that has made it possible for "the perfectionist with deadlines" to do just that.
 
-*Fact box: Django is one of the most popular full-stack web frameworks for Python. Django can be used for everything from APIs to front-end-heavy applications. Django is known for having many well-thought-out tools for general web development. Built-in security and robustness are a high priority. In addition, there are countless third-party modules that expand the possibilities. Many well-known commercial projects run Django or used it in their early years, such as Instagram, Pinterest, Dropbox, Spotify, Bitbucket, Read the Docs, Disqus, etc.*
+<div class="factbox">
+<b>What's this Django?</b>
+Django is one of the most popular full-stack web frameworks for Python. Django can be used for everything from APIs to front-end-heavy applications. Django is known for having many well-thought-out tools for general web development. Built-in security and robustness are a high priority. In addition, there are countless third-party modules that expand the possibilities. Many well-known commercial projects run Django or used it in their early years, such as Instagram, Pinterest, Dropbox, Spotify, Bitbucket, Read the Docs, Disqus, etc.
+</div>
 
 When we celebrate with cake and fun on Friday, October 10th in Nørrebro ([join us!](https://birthday20.djangoproject.com/events/copenhagen/)), it will be in the same spirit that we have always been involved in Django: It's fun, it's social, and we learn from each other.
 
