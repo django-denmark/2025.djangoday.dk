@@ -10,6 +10,8 @@ draft: false
 
 # 20 år med Django!
 
+*8. oktober, 2025 af Django Denmark*
+
 Der findes mange forskellige måder at bygge apps og hjemmesider, og i hele 20 år har [Django](https://www.djangoproject.com/) været et framework, som har gjort det muligt for "the perfectionist with deadlines" at gøre lige netop dette.
 
 <div class="factbox">
@@ -41,11 +43,15 @@ I Danmark har der længe været et fællesskab omkring Django, både som individ
 
 **Et stort tillykke med fødselsdagen fra Django Danmark!**
 
+*Balder, Vidir og Emil*
+
 [1] https://en.wikipedia.org/wiki/Lindy_effect<br>
 [2] https://github.com/django/deps/blob/main/accepted/0014-background-workers.rst<br>
 [3] https://mastodon.social/@farhanaliraza/115253915866389914
 
 # 20 years of Django!
+
+*8. oktober, 2025 by Django Denmark*
 
 There are many different ways to build apps and websites, and for 20 years, [Django](https://www.djangoproject.com/) has been a framework that has made it possible for "the perfectionist with deadlines" to do just that.
 
@@ -77,6 +83,8 @@ At the end of 2014, Django's Fellowship program started. A "fellow" is paid by t
 In Denmark, there has long been a community around Django, both as individual smaller events and recurring larger activities annually. In 2019, we held DjangoCon Europe in Copenhagen and almost 400 participants from all over the world attended. We saw a good interest from Danish organizations, and we would definitely encourage more people to get involved in the environment. Django is still moving forward, and new winds are blowing in the direction of digital sovereignty ([the French government is well underway](https://docs.numerique.gouv.fr/)), which is attracting more new users.
 
 **A big happy birthday from Django Denmark!**
+
+*Balder, Vidir og Emil*
 
 [1] https://en.wikipedia.org/wiki/Lindy_effect<br>
 [2] https://github.com/django/deps/blob/main/accepted/0014-background-workers.rst<br>
