@@ -1,6 +1,6 @@
 baseURL = "https://2025.djangoday.dk"
 languageCode = "en-us"
-title = "Django Denmark celebrates Django turning 20!"
+title = "20 år med Django / 20 years of Django!"
 theme = "djangoday"
 
 [taxonomies]
@@ -10,7 +10,7 @@ theme = "djangoday"
   post = "/:filename/"
 
 [params]
-  description = "A birthday event and a little article from Django Denmark, celebrating 20 years of Django"
+  description = "Vores lille artikel om 20 år med Django + invitation til en fødselsdagsfest / Our little article on 20 years of Django + an invitation to our birthday."
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
